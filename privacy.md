@@ -9,7 +9,7 @@ Stand: 13. September 2026
 
 ## Zweck und Daten
 
-Hub überträgt Zusammenfassungen, die beispielsweise Aufgabeninformationen enthalten können, aus der lokalen Umgebung des Betreibers in dessen Google Drive. Die Anwendung erstellt, aktualisiert und liest hierfür Dateien mit der Google-Berechtigung „drive.file“.
+Assistant-Hub überträgt Zusammenfassungen, die beispielsweise Aufgabeninformationen enthalten können, aus der lokalen Umgebung des Betreibers in dessen Google Drive. Die Anwendung erstellt, aktualisiert und liest hierfür Dateien mit der Google-Berechtigung „drive.file“.
 
 ## Speicherung und Weitergabe
 
