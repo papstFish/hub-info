@@ -3,24 +3,21 @@ layout: default
 title: Datenschutzhinweise
 ---
 
-# Datenschutzhinweise für Hub
+# Datenschutzhinweise für Assistant-Hub
 
 Stand: 13. September 2026
 
 ## Zweck und Daten
 
-Hub wird ausschließlich privat vom Betreiber verwendet.
-Die Integration überträgt eine Markdown-Datei mit Infos.
+Hub überträgt Zusammenfassungen, die beispielsweise Aufgabeninformationen enthalten können, aus der lokalen Umgebung des Betreibers in dessen Google Drive. Die Anwendung erstellt, aktualisiert und liest hierfür Dateien mit der Google-Berechtigung „drive.file“.
 
 ## Speicherung und Weitergabe
 
-Die Snapshot-Inhalte werden nicht auf dieser Website veröffentlicht.
-Ein Verkauf der Daten findet nicht statt.
+Die Daten werden lokal und in Google Drive gespeichert. Bei einer vom Betreiber eingerichteten Nutzung über ChatGPT werden ausgewählte Inhalte auch durch OpenAI verarbeitet. Die Inhalte werden weder auf dieser Website veröffentlicht noch verkauft.
 
 ## Kontrolle und Löschung
 
-Der Betreiber kann den rclone-Zugriff widerrufen und die hochgeladene Datei löschen.
-Lokale Kopien müssen separat verwaltet oder gelöscht werden.
+Der Betreiber kann den Zugriff im Google-Konto widerrufen und gespeicherte Dateien löschen. Lokale Kopien und gegebenenfalls in ChatGPT gespeicherte Inhalte müssen separat gelöscht werden.
 
 ## Diese Website
 
