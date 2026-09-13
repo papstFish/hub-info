@@ -5,10 +5,7 @@ title: Hub
 
 # Hub
 
-Hub ist eine private Integration zur Zusammenstellung
-von Informationen.
-Die Integration wird ausschließlich vom Betreiber persönlich genutzt.
-Diese Website enthält nur Informationen zur Integration.
+Hub ist eine ausschließlich privat genutzte Integration. Sie speichert Informationszusammenfassungen in Google Drive und liest sie zur Überprüfung wieder aus. Der Zugriff erfolgt mit Zustimmung des Kontoinhabers und beschränkt sich auf für die Anwendung freigegebene Dateien.
 
 - [Datenschutzhinweise](privacy.html)
 - [Nutzungsbedingungen](terms.html)
