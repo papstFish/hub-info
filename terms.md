@@ -3,11 +3,11 @@ layout: default
 title: Nutzungsbedingungen
 ---
 
-# Nutzungsbedingungen für Hub
+# Nutzungsbedingungen für Assistant-Hub
 
 Stand: 13. September 2026
 
-Hub ist eine private Integration für den persönlichen
+Assistant-Hub ist eine private Integration für den persönlichen
 Gebrauch des Betreibers. Es wird kein öffentlicher Dienst und
 keine Registrierung für Dritte angeboten.
 
