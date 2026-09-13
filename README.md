@@ -1,0 +1,2 @@
+# hub-info
+info pages
